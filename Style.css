@@ -9,3 +9,9 @@
     height: 100%;
     width: 100%;    
 }   
+
+path{
+
+    stroke: aqua;
+    fill: none;
+}
